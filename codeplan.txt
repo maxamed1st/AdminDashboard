@@ -1,0 +1,26 @@
+Page Layout
+    Grid
+        4 columns
+        5 rows
+Sidebar
+    header
+    2 rows
+Header
+    2 rows
+        Searchbar & notificationbell + userpicture + username
+        Userpicture + name + username + greating & tools (New, Upload, Share)
+Projects
+    2 columns
+    3 rows
+    3 rows in every cell
+Announcements
+    2 rows
+        title
+        Announcement
+    total of 3 Announcements
+Trending
+    2 columns
+        profilepicture
+    2 rows
+        username
+        name
