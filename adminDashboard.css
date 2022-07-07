@@ -1,0 +1,27 @@
+:root {
+    font-size: 2px;
+}
+#container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    font-size: 11rem;
+}
+.sidebar {
+    grid-row: 1/6;
+    grid-column: 1;
+    display: flex;
+    flex-flow: column wrap;
+    line-height: 18rem;
+    background-color: rgb(9, 161, 231);
+    color: white;
+}
+.sidebar div {
+    margin-bottom: 20rem;
+}
+.sidebar div span {
+    display: flex;
+}
+.sidebar #headSpan {
+    font-size: 16rem;
+}
